@@ -1,0 +1,24 @@
+table {
+  border: 1px solid blue;
+  border-collapse: collapse;
+  width: 100%;
+}
+th,
+td {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+th {
+  background-color: #f2f2f2;
+  border-bottom: solid 3px red;
+  background: aliceblue;
+  color: black;
+  font-weight: bold;
+}
+td {
+  padding: 10px;
+  border: solid 1px gray;
+  background: papayawhip;
+}
